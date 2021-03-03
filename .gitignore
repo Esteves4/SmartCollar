@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 #Dataset
-./Modelo/audio_test
-./Modelo/audio_train
+*.wav
 *.csv
 *.xlsx
